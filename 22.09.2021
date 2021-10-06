@@ -1,0 +1,34 @@
+//console.log() prindib tekstikujul konsooli
+console.log("Hello world!");
+
+//if else näide
+
+
+if (tingimus === true) {  
+    console.log("Mina olen true");
+} else if (tingimus === false) {
+    console.log( "Mina olen false");
+} else [
+    console.log("Mina olen vaikimisi väärtus");
+]
+
+
+//if else näite lõpp
+
+//arvutamise harjutus
+// //loome muutujad
+var num1 = 3;
+var num2 = 4;
+var num3 = 5;
+
+var sum = num1 + num2 + num3;
+console.log("Arvude summa:" +sum);
+
+var multiplied = num1 * num2 * num3;
+console.log("Arvude korrutis: " + multiplied);
+
+var maxNum = Math.max(num1, num2, num3);
+console.log("Suurim arv:" + maxNum);
+
+var minNum = Math.min(num1, num2, num3);
+console.log("Väikseim arv:" + minNum);
